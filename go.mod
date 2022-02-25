@@ -1,4 +1,4 @@
-module github.com/schoentoon/logrus-loki
+module github.com/deng/logrus-loki
 
 go 1.13
 
